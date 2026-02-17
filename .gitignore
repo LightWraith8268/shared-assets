@@ -1,0 +1,28 @@
+# Dump folder (unsorted asset drop zone)
+_dump/
+
+# Temporary extraction directory
+_extracted/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Source files (keep only exported/final assets)
+*.psd
+*.xcf
+*.ai
+*.sketch
+*.fig
+
+# Large uncompressed files
+*.bmp
+*.tiff
+*.tif
+*.raw
