@@ -7,7 +7,7 @@ Shared asset repository for use across multiple projects via git submodules.
 ```
 sprites/          Character sprites, objects, visual effects
   characters/     Player, enemies, NPCs (49 packs)
-  objects/        Items, props, collectibles (12 packs)
+  objects/        Items, props, collectibles, planets (16 packs)
   effects/        Particles, explosions, glows (3 packs)
 icons/            Icons for apps and games
   game/           In-game icons (coins, gems, power-ups)
@@ -21,7 +21,7 @@ ui/               UI components
   dialogs/        Dialog boxes, popups
   hud/            HUD elements (health bars, counters)
 backgrounds/      Background images, parallax layers
-tilesets/         Tile-based map assets (9 packs)
+tilesets/         Tile-based map assets and textures (15 packs)
 animations/       Sprite sheets, animation sequences
 models/           3D models (FBX, OBJ)
 kenney/           Kenney Game Assets All-in-1 (massive collection)
@@ -51,8 +51,22 @@ kenney/           Kenney Game Assets All-in-1 (massive collection)
 - Display: Rubik Pixels, Dot Gothic 16, Turret Road, Pixel Operator
 - Body: Roboto Slab
 
+### SBS Texture & Planet Packs
+- 2D Planet Pack (128/256/512) - 17 planet types
+- 2D Planet Pack 2 (Shaded + Unshaded, 128/256/512)
+- Planet Textures Addon
+- Abstract Texture Pack (128/256/512)
+- Base Materials Pack (128/256/512)
+- Photorealistic Texture Pack 1/2/3 (128/256/512)
+- Sandbox Style Terrain (bricks, textures, cubes)
+- Seamless Abstract Pack (128/256/512)
+- Tiny Texture Pack 1/2/3 (multiple sizes)
+- Isometric Crate Textures & Packs (64/128)
+- Portrait Frame Pack (128/256) - Marble, Metal, Plastic, Stone, Wood
+
 ### UI
 - Free Buttons, Pixel UI Pack 3
+- SBS Portrait Frames
 - Per-pack UI elements in hud/panels subdirectories
 
 ## Usage
